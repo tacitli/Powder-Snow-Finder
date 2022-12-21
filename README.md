@@ -30,6 +30,11 @@ Credit:
 Collentine. (2019, August). *Perfect powder - explained*. OpenSnow. Retrieved December 11, 2022, from https://opensnow.com/news/post/perfect-powder-explained
 
 ## Powder day list visualization 
+In split view:
+
+![Splited Powder Snow Dates by Resorts in Season 21-22 cropped](https://user-images.githubusercontent.com/86301631/208815779-2173d91f-5e42-47fa-bf5a-e980d4d73369.png)
+
+Continuous timeline:
 
 ![Powder Snow Dates by Resorts in Season 21-22](https://user-images.githubusercontent.com/86301631/208797267-2cf23552-4c6d-43a0-b6cb-b671fdce7774.png)
 One dark blue square means a powder day in a given resort calculated by the desired temperature and wind speed condition.
