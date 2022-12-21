@@ -19,12 +19,14 @@ https://user-images.githubusercontent.com/86301631/208796964-89c7a5c6-d401-4d4b-
 From the bar chart iteration plots, we can see that the temperature and wind speed are quite fluctuant over the snow season, and possibly subject to yearly temporary conditions. Thus, the data from one year may not be precise enough to do a fine granularity powder snow prediction. But in the following chapter, we can still summarize which period and which resorts are ideal for catching powder snow by analyzing the occurrence number.
 
 # Define the weather condition for powder
+
 Since major resorts all have snowmaking setups, the weather elements we need to consider are temperature and wind speed.
 ## Temp
 Ideal temperatures for light and fluffy snow tend to fall between *0°F and 10°F* near or above the **summit of the mountain**.
 ## Wind
 Along with cold temperatures, we are looking for winds slower than about 15 miles per hour near the **summit of the mountain**. Winds stronger than 15 miles per hour will tend to pick up the snow and pack it more closely together as it blows around during and after it falls.
 
+Credit: 
 Collentine. (2019, August). *Perfect powder - explained*. OpenSnow. Retrieved December 11, 2022, from https://opensnow.com/news/post/perfect-powder-explained
 
 ## Powder day list visualization 
