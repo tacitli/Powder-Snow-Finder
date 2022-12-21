@@ -18,7 +18,7 @@ https://user-images.githubusercontent.com/86301631/208796964-89c7a5c6-d401-4d4b-
 
 From the bar chart iteration plots, we can see that the temperature and wind speed are quite fluctuant over the snow season, and possibly subject to yearly temporary conditions. Thus, the data from one year may not be precise enough to do a fine granularity powder snow prediction. But in the following chapter, we can still summarize which period and which resorts are ideal for catching powder snow by analyzing the occurrence number.
 
-# Define the weather condition for powder
+# Define the weather condition for perfect powder
 
 Since major resorts all have snowmaking setups, the weather elements we need to consider are temperature and wind speed.
 ## Temp
