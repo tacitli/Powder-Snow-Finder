@@ -2,13 +2,13 @@
 ## Intro
 This is a recreational project on finding the powder occurrence in 13 following resorts around New York City in the last snow season.
 
-<img src="https://user-images.githubusercontent.com/86301631/208796393-11fc1a12-21a9-46ae-bcf4-171bde948c2c.png" width="220">
+<img src="https://user-images.githubusercontent.com/86301631/208796393-11fc1a12-21a9-46ae-bcf4-171bde948c2c.png" width="300">
 
 ## Data
 Due to the Openweather API restriction, we can only query history data for the past one year for education or research use. (Still trying to contact another weather API website). 
 The formation of powder snow is conditioned on **temperature** and **wind speed**, so the data queried is the temperature and wind speed data for all 13 ski resorts **from 2021-12-19 to 2022-04-02** (the snow season period).
 
-<img src="https://user-images.githubusercontent.com/86301631/208803795-f6177ac0-fe94-46d9-935a-7da6120c063e.png" width="320">
+<img src="https://user-images.githubusercontent.com/86301631/208803795-f6177ac0-fe94-46d9-935a-7da6120c063e.png" width="380">
 
 ## Data Visualization
 
