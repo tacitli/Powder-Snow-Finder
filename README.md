@@ -6,7 +6,7 @@ This is a recreational project on finding the powder occurrence in following 13 
 
 ## Data
 Due to the Openweather API restriction, we can only query history data for the past one year for education or research use. (Still trying to contact another weather API website). 
-The formation of powder snow is conditioned on **temperature** and **wind speed**, so the data queried is the temperature and wind speed data for all 13 ski resorts **from 2021-12-19 to 2022-04-02** (the snow season period).
+The formation of powder snow is conditioned on **temperature** and **wind speed**, so the data queried is the hourly temperature and wind speed data for all 13 ski resorts **from 2021-12-19 to 2022-04-02** (the snow season period). Day temperature and wind speed are calculated by averaging the original hourly data. 
 
 <img src="https://user-images.githubusercontent.com/86301631/208803795-f6177ac0-fe94-46d9-935a-7da6120c063e.png" width="380">
 
