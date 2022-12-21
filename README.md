@@ -16,7 +16,7 @@ https://user-images.githubusercontent.com/86301631/208796962-4bee37dd-13ca-46bd-
 
 https://user-images.githubusercontent.com/86301631/208796964-89c7a5c6-d401-4d4b-a1cd-8e9976151e20.mp4
 
-From the bar chart iteration plot we can see that the temperature and wind speed are quite fluctuant over the snow season, and possibly subject to yearly temporary condition. Thus, the data of one year may not be precision enough to do a fine granularity powder snow prediction. But in the following chapter, we can still summrize which period and which resorts are ideal for catching powder snow by analyzing the occurence number.
+From the bar chart iteration plots, we can see that the temperature and wind speed are quite fluctuant over the snow season, and possibly subject to yearly temporary conditions. Thus, the data from one year may not be precise enough to do a fine granularity powder snow prediction. But in the following chapter, we can still summarize which period and which resorts are ideal for catching powder snow by analyzing the occurrence number.
 
 # Define the weather condition for powder
 Since major resorts all have snowmaking setups, the weather elements we need to consider are temperature and wind speed.
@@ -30,9 +30,9 @@ Collentine. (2019, August). *Perfect powder - explained*. OpenSnow. Retrieved De
 ## Powder day list visualization 
 
 ![Powder Snow Dates by Resorts in Season 21-22](https://user-images.githubusercontent.com/86301631/208797267-2cf23552-4c6d-43a0-b6cb-b671fdce7774.png)
-One dark blue square mean a powder day in a given resorts calculated by the desired temperature and wind speed condition.
+One dark blue square means a powder day in a given resort calculated by the desired temperature and wind speed condition.
 
-## The resorts that observed most powder days over the last snow season
+## The resorts that observed the most powder days over the last snow season
 
 ![Powder Days Count by Resorts](https://user-images.githubusercontent.com/86301631/208798738-2b521f6e-2067-4428-ade2-41e56905a2b1.png)
 
@@ -44,4 +44,4 @@ Among the resorts in Vermont, **Stowe, Mt Snow, and Stratton** are the **best pl
 ![Powder Days Count by Dates](https://user-images.githubusercontent.com/86301631/208798587-37a30ac0-8b54-4f86-97b0-445ca68b57d9.png)
 
 
-According to the plot, from mid-January to the early February is a ideal period for ski trip if you want cursh some powder. 
+According to the plot, from mid-January to early February is an ideal period for a ski trip if you want crush some powder. 
