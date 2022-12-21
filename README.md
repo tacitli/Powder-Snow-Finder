@@ -33,7 +33,8 @@ Collentine. (2019, August). *Perfect powder - explained*. OpenSnow. Retrieved De
 One dark blue square mean a powder day in a given resorts calculated by the desired temperature and wind speed condition.
 
 ## The resorts that observed most powder days over the last snow season
-![Powder Days Count by Resorts](https://user-images.githubusercontent.com/86301631/208798571-38e59e8c-6109-44c5-9dac-43b33c9aef58.png)
+
+![Powder Days Count by Resorts](https://user-images.githubusercontent.com/86301631/208798738-2b521f6e-2067-4428-ade2-41e56905a2b1.png)
 
 
 From this plot, we can see that the resorts located in Vermont are our go-to place for powder snow since they take over the top of our list over the last snow season. And the occurrence of powder days calculated by our data in VT resorts are significantly higher than in other states. 
