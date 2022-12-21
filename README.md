@@ -1,6 +1,6 @@
 # Powder Snow Days in Northeastern US
 ## Intro
-This is a recreational project on finding the powder occurrence in 13 following resorts around New York City in the last snow season.
+This is a recreational project on finding the powder occurrence in following 13 resorts around New York City in the last snow season.
 
 <img src="https://user-images.githubusercontent.com/86301631/208796393-11fc1a12-21a9-46ae-bcf4-171bde948c2c.png" width="300">
 
