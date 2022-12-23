@@ -31,7 +31,7 @@ Collentine. (2019, August). *Perfect powder - explained*. OpenSnow. Retrieved De
 
 ## Powder day list visualization 
 
-One dark blue square means a powder day in a given resort calculated by the desired temperature and wind speed condition.
+One **dark blue square** means a powder day in a given resort calculated by the desired temperature and wind speed condition.
 
 In split view:
 
